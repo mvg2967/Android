@@ -1,0 +1,2 @@
+/home/mark/AndroidStudioProjects/IntentsLab/app/build/intermediates/classes/debug
+/home/mark/AndroidStudioProjects/IntentsLab/app/build/intermediates/pre-dexed/debug/robotium-solo-5.2.1-6ea03107ddc7b54dee99b568b04dcc788a0b48f5.jar

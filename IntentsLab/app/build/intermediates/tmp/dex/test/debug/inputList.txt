@@ -1,0 +1,1 @@
+/home/mark/AndroidStudioProjects/IntentsLab/app/build/intermediates/classes/test/debug
