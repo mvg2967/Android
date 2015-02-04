@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mark/AndroidStudioProjects/PermissionsLab/libs/robotium-solo-5.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56ab8d87d966a067ee3795ee137fbd51b6581ec9">
+        <dex dex="/home/mark/AndroidStudioProjects/PermissionsLab/app/build/intermediates/pre-dexed/debug/robotium-solo-5.2.1-3463d762b9aa88d4bdc69fbd2dccefe861da2db8.jar" />
+    </item>
+    <item
+        jar="/home/mark/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/mark/AndroidStudioProjects/PermissionsLab/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-d285e6330435e4030c251b2bb24db9da9ec5a2d5.jar" />
+    </item>
+
+</items>
