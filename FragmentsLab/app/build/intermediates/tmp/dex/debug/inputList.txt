@@ -1,0 +1,2 @@
+/home/mark/AndroidStudioProjects/FragmentsLab/app/build/intermediates/classes/debug
+/home/mark/AndroidStudioProjects/FragmentsLab/app/build/intermediates/pre-dexed/debug/robotium-solo-5.2.1-2201e28c90dc5c02a6fb73bfe5642c04b52532c6.jar
